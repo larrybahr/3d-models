@@ -6,3 +6,4 @@ It features thicker and taller walls to prevent breakage and give it a tighter f
 I printed mine in clear OVERTURE high speed 95A TPU and they are working great!
 
 A Blender file of the design is available if you’d like to make any modifications or improvements.
+https://github.com/larrybahr/3d-models/tree/main/bertolini-chair-leg-foot-glide
