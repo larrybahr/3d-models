@@ -1,5 +1,8 @@
+See the model on maker world 
+https://makerworld.com/en/models/1118095#profileId-1115945
+
 This reinforced replacement chair foot glide is designed for Bertolini chairs, offering superior durability over factory models. 
-With thicker and taller walls, it provides a tighter/more secure fit and improved stength reducing breakage—especially when stacking chairs.
+With thicker and taller walls, it provides a tighter/more secure fit and improved strength reducing breakage—especially when stacking chairs.
 
 It features thicker and taller walls to prevent breakage and give it a tighter fit, especially when stacking chairs.  The upgraded design helps prevent slipping, enhancing both stability and longevity over the original https://bertolinidirect.com/products/accessories/glides.
 
