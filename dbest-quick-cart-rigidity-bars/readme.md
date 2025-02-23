@@ -9,3 +9,4 @@ Introducing our improved side support bracket designed specifically for the dbes
 I printed mine in black PETG (and white for the pictures) to ensure it is durable enough for my 3 young kids and can withstand the heat of the southern summer.
 
 Source file can be found here if you want to iterate on the model.
+https://github.com/larrybahr/3d-models/tree/main/dbest-quick-cart-rigidity-bars
